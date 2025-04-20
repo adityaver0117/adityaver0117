@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @adityaver0117
 - 👀 I’m interested in ... app development
-- 🌱 I’m currently learning ... c++
-- 💞️ I’m looking to collaborate on ... app development
-- 📫 How to reach me ... https://instagram.com/aaditya.verma_3666?igshid=YmMyMTA2M2Y=
+- 💞️ I’m looking to collaborate on ... app development..
 - Email id ... aaditya.verma0107@gmail.com
 
 <!---
