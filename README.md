@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adityaver0117
-- 👀 I’m interested in ... app development
-- 💞️ I’m looking to collaborate on ... app development..
+- 👀 I’m interested in ... java backend development
 - Email id ... aaditya.verma0107@gmail.com
 
 <!---
