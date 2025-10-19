@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityaver0117
-- 👀 I’m interested in ... java backend development
+- 👀Aspiring Java Developer | Web Development Enthusiast | Building Scalable Web Solutions.
 - Email id ... aaditya.verma0107@gmail.com
 
 <!---
